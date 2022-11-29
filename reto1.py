@@ -7,11 +7,8 @@ if num % 3 == 0 :
  print("El",num,"Si es multiplo de 3")
 else :
   print ("El",num,"no es multiplo de 3") 
-
-#prueba
-
-
-
+ 
+#prueba1
 
 
 
