@@ -3,6 +3,6 @@
 
 num1= int(input ("ingrese un número entero: "))
 if num1 % 5 == 0 :
- print("es multiplo 5")
+ print("es multiplo de 5")
 else :
  print ("no es multiplo de 5") 
